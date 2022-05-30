@@ -1,0 +1,26 @@
+id: IA6195A68
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T04:59:09.024871'
+last_modified: '2022-05-31T04:59:09.024900'
+parser: null
+source_metadata:
+  title: Kunga Palden Series
+  language: en
+  description: 'Texts by and about the renunciant Kunga Palden (kun dga'' dpal ldan,
+    1878–1944):'
+  volume:
+    f82EE:
+      title: 'Wondrous Light of Lunar Nectar: The Biography of Chatral Kunga Palden,
+        a Yogin of the Supreme Vehicle'
+      base_file: f82EE.txt
+      order: 1
+      parent: Biographies
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
